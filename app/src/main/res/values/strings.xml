@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPractice</string>
+    <string name="hello_World">Hello World</string>
+    <string name="object_button">Click</string>
+    <string name="text_after_Clicked">You\'ve Clicked the button</string>
+
+</resources>
